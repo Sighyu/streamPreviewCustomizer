@@ -4,6 +4,11 @@ Replace the Discord stream thumbnail with a custom image instead of the live scr
 
 ## Preview
 
+<img width="350" height="245" alt="Image" src="https://github.com/user-attachments/assets/b241680f-561f-41a0-8f60-bbd3afc29301" />
+
+<img width="435" height="290" alt="Image" src="https://github.com/user-attachments/assets/0ffd8e82-889c-45a7-b2ac-9457abc30b37" />
+
+<img width="604" height="658" alt="Image" src="https://github.com/user-attachments/assets/83f6c521-8bf0-4b5d-9821-c3d0f25c649d" />
 
 ## Features
 
@@ -26,7 +31,7 @@ Replace the Discord stream thumbnail with a custom image instead of the live scr
 
 1. Clone this repo into your `src/userplugins/` folder:
    ```
-   git clone https://github.com/sighyu/streamPreviewCustomizer
+   git clone https://github.com/Sighyu/streamPreviewCustomizer.git
    ```
 2. In the Equicord/Vencord repo root, run:
    ```
