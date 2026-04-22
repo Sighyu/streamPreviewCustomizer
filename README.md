@@ -27,13 +27,13 @@ Replace the Discord stream thumbnail with a custom image instead of the live scr
 
 ## Installation
 
-> **This plugin requires a source build of Equicord or Vencord.** It does **not** work with the pre-built installer versions — you need to have cloned the repo and be building from source.
+> **This plugin requires a source build of Equicord. (Haven't tested with Vencord but it should work) ** It does **not** work with the pre-built installer versions  you need to have cloned the repo and be building from source.
 
 1. Clone this repo into your `src/userplugins/` folder:
    ```
    git clone https://github.com/Sighyu/streamPreviewCustomizer.git
    ```
-2. In the Equicord/Vencord repo root, run:
+2. In the Equicord or Vencord repo root, run:
    ```
    pnpm build
    ```
